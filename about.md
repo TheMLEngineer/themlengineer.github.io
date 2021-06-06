@@ -1,4 +1,4 @@
-# About
+# About Me
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+I am well versed in Python , With 3 Plus years of Industry Experience. Here to do cool things with Deep Learning , Learn a lot and to create a vibrant community. Thanks.
 
